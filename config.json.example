@@ -1,0 +1,11 @@
+{
+    "database":{
+	"type":"sqlite",
+        "host":"localhost",
+    	"socket":"/run/mysqld/mysqld.sock",
+        "user":"user",
+        "pass":"passwort",
+        "db":"db name"
+        }
+}
+
